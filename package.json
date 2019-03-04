@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfmdev/simple-spellchecker.git"
+    "url": "https://github.com/buffet_time/simple-spellchecker.git"
   },
   "keywords": [
     "simple",
@@ -21,12 +21,12 @@
   "author": "JFMDev",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/jfmdev/simple-spellchecker/issues"
+    "url": "https://github.com/buffet_time/simple-spellchecker/issues"
   },
-  "homepage": "https://github.com/jfmdev/simple-spellchecker#readme",
+  "homepage": "https://github.com/buffet_time/simple-spellchecker#readme",
   "dependencies": {
     "binarysearch": "^0.2.4",
-    "damerau-levenshtein": "git://github.com/cbaatz/damerau-levenshtein.git",
+    "damerau-levenshtein": "https://github.com/cbaatz/damerau-levenshtein.git",
     "strip-bom": "^2.0.0",
     "unzip-stream": "^0.3.0"
   },
