@@ -1,12 +1,12 @@
 Simple Spellchecker
 ===================
-
 > A simple and fast spellchecker with spelling suggestions and Electron's integration
-This is a fork of https://github.com/jfmdev/simple-spellchecker to try and make it install normally on certain proxies.
 
 
 Features
 --------
+
+This is a fork of https://github.com/jfmdev/simple-spellchecker to try and make it install normally on certain proxies.
 
 **Simple Spellchecker** is a spellchecker module for Node.js, that allows to check if a word is misspelled and to get spelling suggestions.
 
